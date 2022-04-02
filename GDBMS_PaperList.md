@@ -72,3 +72,11 @@
 ## join
 + Relational joins on graphics processors(SIGMOD)
 
+## Database optimization technology based on new storage media
+>### PM DataBase
++  [Oracle 20c](https://docs.oracle.com/en/database/oracle/oracle-database/21/admin/)
+>### Storage optimization
++ NUMA 感知的持久内存存储引擎优化设计(软件学报 2022)
+>### Data organization
++ Managing non-volatile memory in database systems(sigmod 2018)
++ A three-tier buffer manager for volatile and non-volatile memory()
