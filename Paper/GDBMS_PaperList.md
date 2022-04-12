@@ -1,4 +1,6 @@
 ## GPU Database System
++ Rubao Lee, Minghong Zhou, Chi Li, Shenggang Hu, Jianping Teng, Dongyang Li, Xiaodong Zhang:
+The Art of Balance: A RateupDB Experience of Building a CPU/GPU Hybrid Database Product. Proc. VLDB Endow. 14(12): 2999-3013 (2021)
 
 ## GDBMS Survey
 + 裴威,李战怀,潘巍.GPU 数据库核心技术综述.软件学报,2021,32(3):859−885.
@@ -19,55 +21,25 @@
 + Yi-Cheng Tu, Anand Kumar, Di Yu, Ran Rui, Ryan Wheeler:Data management systems on GPUs: promises and challenges. SSDBM 2013: 33:1-33:4
 
 ## Query Engine
++ Periklis Chrysogelos, Panagiotis Sioulas, Anastasia Ailamaki:
+Hardware-conscious Query Processing in GPU-accelerated Analytical Engines. CIDR 2019
 
 ## Query execution
-+ NestGPU Nested Query Processing on GPU(ICDE 2021)
++ Sofoklis Floratos, Mengbai Xiao, Hao Wang, Chengxin Guo, Yuan Yuan, Rubao Lee, Xiaodong Zhang:NestGPU: Nested Query Processing on GPU. ICDE 2021: 1008-1019
 
 ## Query compilation
-+ Architecting a query Compiler for Spatial Workloads(SIGMOD 2020)
-+ How to Architect a Query Compiler, Revisited(SIGMOD 2018)
-
-+ How "How" Explains What "What" Computes - How-Provenance for SQL and Query Compilers(TaPP 2018)
-
-+ Prototyping a query compiler using Coq (experience report). Proc. ACM Program. Lang. 1(ICFP): 9:1-9:15 (2017)
-+ Handling Environments in a Nested Relational Algebra with Combinators and an Implementation in a Verified Query Compiler. SIGMOD Conference 2017: 1555-1569
-+ Q*cert: A Platform for Implementing and Verifying Query Compilers. SIGMOD Conference 2017: 1703-1706
-+ How to Architect a Query Compiler. SIGMOD Conference 2016: 1907-1922
-+ Glacier: a query-to-hardware compiler. SIGMOD Conference 2010: 1159-1162
-+ Streams on Wires - A Query Compiler for FPGAs. Proc. VLDB Endow. 2(1): 229-240 (2009)
-+ Adaptive Query Compilation in Graph Databases. ICDE Workshops 2021: 112-119
-+ Improving Execution Efficiency of Just-in-time Compilation based Query Processing on GPUs. Proc. VLDB Endow. 14(2): 202-214 (2020)
-+ Grizzly: Efficient Stream Processing Through Adaptive Query Compilation. SIGMOD Conference 2020: 2487-2503
-
-[comment]: <> (+ DejaVu: Recycling Tuning Setups in Hive Query Compilation. ER Forum/Posters/Demos 2019: 118-122)
-+ Query compilation in PostgreSQL by specialization of the DBMS source code. Program. Comput. Softw. 43(6): 353-365 (2017)
-
-[comment]: <> (+ Circuit Treewidth, Sentential Decision, and Query Compilation. PODS 2017: 233-246)
-+ Exploring Query Compilation Strategies for JIT, Vectorization and SIMD. ADMS@VLDB 2017: 9-17
-
-[comment]: <> (+ Circuit Treewidth, Sentential Decision, and Query Compilation. CoRR abs/1701.04626 &#40;2017&#41;)
-+ On supporting compilation in spatial query engines: (vision paper). SIGSPATIAL/GIS 2016: 9:1-9:4
-+ A JIT Compilation-Based Unified SQL Query Optimization System. ICITCS 2016: 1-2
-+ Improving SQL query performance on embedded devices using pre-compilation. SAC 2016: 961-964 2015
-
-[comment]: <> (+ Stream-Query Compilation with Ontologies. Australasian Conference on Artificial Intelligence 2015: 457-463)
-+ The Flatter, the Better: Query Compilation Based on the Flattening Transformation. SIGMOD Conference 2015: 1421-1426
-+ Just-in-time compilation for SQL query processing. ICDE 2014: 1298-1301
-+ Compilation of Query Languages into MapReduce. Datenbank-Spektrum 13(1): 5-15 (2013)
-+ Just-in-time compilation for SQL query processing. Proc. VLDB Endow. 6(11): 1190-1191 (2013)
-+ On the tractability of query compilation and bounded treewidth. ICDT 2012: 249-261
-+ Fundamentals of Physical Design and Query Compilation.2011
-+ Vectorization vs. compilation in query execution. DaMoN 2011: 33-40 2011
++ Ruby Y. Tahboub, Tiark Rompf:Architecting a Query Compiler for Spatial Workloads. SIGMOD Conference 2020: 2103-2118
 
 ## Query Optimization
-+ r3d3: Optimized Query Compilation on GPUs. CGO 2021: 277-288
++ Alexander Krolik, Clark Verbrugge, Laurie J. Hendren:r3d3: Optimized Query Compilation on GPUs. CGO 2021: 277-288
 
 
 ## Storage Manager
-+ Column-Stores vs. Row-Stores- How Different Are They  Really?(SIGMOD 2008)
++ Daniel J. Abadi, Samuel Madden, Nabil Hachem:Column-stores vs. row-stores: how different are they really? SIGMOD Conference 2008: 967-980
 
 ## index
-+ A GPU-based index to support interactive spatio-temporal queries over historical data(ICDE)
++ Harish Doraiswamy, Huy T. Vo, Cláudio T. Silva, Juliana Freire:A GPU-based index to support interactive spatio-temporal queries over historical data. ICDE 2016: 1086-1097
 
 ## join
-+ Relational joins on graphics processors(SIGMOD)
++ Bingsheng He, Ke Yang, Rui Fang, Mian Lu, Naga K. Govindaraju, Qiong Luo, Pedro V. Sander:Relational joins on graphics processors. SIGMOD Conference 2008: 511-524
++ Sven Winkelhaus, Minqi Zhang, Eric H. Grosse, Christoph H. Glock:Hybrid order picking: A simulation model of a joint manual and autonomous order picking system. Comput. Ind. Eng. 167: 107981 (2022)
