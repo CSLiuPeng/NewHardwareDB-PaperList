@@ -73,6 +73,9 @@
 + Relational joins on graphics processors(SIGMOD)
 
 ### TEST
-+ 	Tiemo Bang, Norman May, Ilia Petrov, Carsten Binnig:
++ Tiemo Bang, Norman May, Ilia Petrov, Carsten Binnig:
 The tale of 1000 Cores: an evaluation of concurrency control on real(ly) large multi-socket hardware. 3:1-3:9
++ Henning Funke, Jan Mühlig, Jens Teubner:
+Efficient generation of machine code for query compilers. 6:1-6:7
+
 
