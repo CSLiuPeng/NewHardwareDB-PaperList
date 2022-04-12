@@ -3,10 +3,21 @@
 ## GDBMS Survey
 
 ## Query Engine
-+ [Robert Lasch](https://dblp.org/pid/243/2617.html)![0000-0001-6491-001X](https://dblp.org/img/orcid-mark.12x12.png), [Süleyman Sirri Demirsoy](https://dblp.org/pid/62/5784.html), [Norman May](https://dblp.org/pid/89/6071.html), [Veeraraghavan Ramamurthy](https://dblp.org/pid/266/6909.html), [Christian Färber](https://dblp.org/pid/266/6790.html), [Kai-Uwe Sattler](https://dblp.org/pid/s/KaiUweSattler.html):
-**Accelerating re-pair compression using FPGAs.** 8:1-8:8
-+ [Ingo Müller](https://dblp.org/pid/76/3160-2.html), [Renato Marroquín](https://dblp.org/pid/173/9193.html), [Dimitrios Koutsoukos](https://dblp.org/pid/195/1301.html), [Mike Wawrzoniak](https://dblp.org/pid/27/6413.html), [Sabir Akhadov](https://dblp.org/pid/186/0280.html), [Gustavo Alonso](https://dblp.org/pid/a/GustavoAlonso.html):
-**The collection Virtual Machine: an abstraction for multi-frontend multi-backend data analysis.** 7:1-7:10
++ GPU数据库核心技术综述 裴威，李战怀，潘巍(软件学报 2021)
++ Johns Paul, Bingsheng He, Shengliang Lu, Chiew Tong Lau:Revisiting hash join on graphics processors: a decade later. Distributed Parallel Databases 38(4): 771-793 (2020)
++ Iya Arefyeva, David Broneske, Gabriel Campero Durand, Marcus Pinnecke, Gunter Saake:Memory Management Strategies in CPU/GPU Database Systems: A Survey. BDAS 2018: 128-142
++ Brenton Lessley, Hank Childs:Data-Parallel Hashing Techniques for GPU Architectures. IEEE Trans. Parallel Distributed Syst. 31(1): 237-250 (2020)
++ Makoto Yabuta, Anh Nguyen, Shinpei Kato, Masato Edahiro, Hideyuki Kawashima:Relational Joins on GPUs: A Closer Look. IEEE Trans. Parallel Distributed Syst. 28(9): 2663-2673 (2017)
++ Sparsh Mittal:A Survey of Techniques for Architecting and Managing GPU Register File. IEEE Trans. Parallel Distributed Syst. 28(1): 16-28 (2017)
++ Cagri Balkesen, Gustavo Alonso, Jens Teubner, M. Tamer Özsu:Multi-Core, Main-Memory Joins: Sort vs. Hash Revisited. Proc. VLDB Endow. 7(1): 85-96 (2013)
++ Ran Rui, Hao Li, Yi-Cheng Tu:Join algorithms on GPUs: A revisit after seven years. IEEE BigData 2015: 2541-2550
++ Jiong He, Mian Lu, Bingsheng He:Revisiting Co-Processing for Hash Joins on the Coupled CPU-GPU Architecture. Proc. VLDB Endow. 6(10): 889-900 (2013)
++ Wenbin Fang, Bingsheng He, Qiong Luo:Database Compression on Graphics Processors. Proc. VLDB Endow. 3(1): 670-680 (2010)
++ Daniel J. Abadi, Daniel S. Myers, David J. DeWitt, Samuel Madden:Materialization Strategies in a Column-Oriented DBMS. ICDE 2007: 466-475
++ Tim Kaldewey, Guy M. Lohman, René Müller, Peter Benjamin Volk:GPU join processing revisited. DaMoN 2012: 55-62
++ Stratos Idreos, Fabian Groffen, Niels Nes, Stefan Manegold, K. Sjoerd Mullender, Martin L. Kersten:MonetDB: Two Decades of Research in Column-oriented Database Architectures. IEEE Data Eng. Bull. 35(1): 40-45 (2012)
++ Sebastian Breß, Max Heimel, Norbert Siegmund, Ladjel Bellatreche, Gunter Saake:GPU-Accelerated Database Systems: Survey and Open Challenges. Trans. Large Scale Data Knowl. Centered Syst. 15: 1-35 (2014)
++ Yi-Cheng Tu, Anand Kumar, Di Yu, Ran Rui, Ryan Wheeler:Data management systems on GPUs: promises and challenges. SSDBM 2013: 33:1-33:4
 
 ## Query execution
 + NestGPU Nested Query Processing on GPU(ICDE 2021)
