@@ -77,5 +77,8 @@
 The tale of 1000 Cores: an evaluation of concurrency control on real(ly) large multi-socket hardware. 3:1-3:9
 + Henning Funke, Jan Mühlig, Jens Teubner:
 Efficient generation of machine code for query compilers. 6:1-6:7
++ 	Florian Grieskamp, Roland Kühn, Jens Teubner:
+Variable word length word-aligned hybrid compression. 18:1-18:3a service of  Schloss Dagstuhl - Leibniz Center for Informatics	homebrowsesearchabout
+
 
 
