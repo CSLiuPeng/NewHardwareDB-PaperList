@@ -1,6 +1,5 @@
 ## GPU Database System
-+ Rubao Lee, Minghong Zhou, Chi Li, Shenggang Hu, Jianping Teng, Dongyang Li, Xiaodong Zhang:
-The Art of Balance: A RateupDB Experience of Building a CPU/GPU Hybrid Database Product. Proc. VLDB Endow. 14(12): 2999-3013 (2021)
++ Rubao Lee, Minghong Zhou, Chi Li, Shenggang Hu, Jianping Teng, Dongyang Li, Xiaodong Zhang:The Art of Balance: A RateupDB Experience of Building a CPU/GPU Hybrid Database Product. Proc. VLDB Endow. 14(12): 2999-3013 (2021)
 
 ## GDBMS Survey
 + 裴威,李战怀,潘巍.GPU 数据库核心技术综述.软件学报,2021,32(3):859−885.
@@ -21,8 +20,7 @@ The Art of Balance: A RateupDB Experience of Building a CPU/GPU Hybrid Database 
 + Yi-Cheng Tu, Anand Kumar, Di Yu, Ran Rui, Ryan Wheeler:Data management systems on GPUs: promises and challenges. SSDBM 2013: 33:1-33:4
 
 ## Query Engine
-+ Periklis Chrysogelos, Panagiotis Sioulas, Anastasia Ailamaki:
-Hardware-conscious Query Processing in GPU-accelerated Analytical Engines. CIDR 2019
++ Periklis Chrysogelos, Panagiotis Sioulas, Anastasia Ailamaki:Hardware-conscious Query Processing in GPU-accelerated Analytical Engines. CIDR 2019
 
 ## Query execution
 + Sofoklis Floratos, Mengbai Xiao, Hao Wang, Chengxin Guo, Yuan Yuan, Rubao Lee, Xiaodong Zhang:NestGPU: Nested Query Processing on GPU. ICDE 2021: 1008-1019
