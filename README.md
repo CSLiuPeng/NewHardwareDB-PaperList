@@ -5,7 +5,7 @@ This is a paper list for new hardware database systems especially for gpu.
 
 ### 论文分类目录
 
-[NVM数据库技术][fpga]
+[FPGA_PaperList][fpga]
 
 [GDBMS_PaperList][gdbms]
 
@@ -25,7 +25,7 @@ This is a paper list for new hardware database systems especially for gpu.
 
 [新型存储器技术][newStorage]
 
-[fpga]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Paper/NVM%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF.md
+[fpga]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Paper/FPGA_PaperList.md
 [gdbms]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Paper/GDBMS_PaperList.md
 [mpp&distribute]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Paper/MPP%E5%92%8C%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF.md
 [newsql]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Paper/NewSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF.md
