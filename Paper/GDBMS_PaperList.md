@@ -3,6 +3,10 @@
 ## GDBMS Survey
 
 ## Query Engine
++ [Robert Lasch](https://dblp.org/pid/243/2617.html)![0000-0001-6491-001X](https://dblp.org/img/orcid-mark.12x12.png), [Süleyman Sirri Demirsoy](https://dblp.org/pid/62/5784.html), [Norman May](https://dblp.org/pid/89/6071.html), [Veeraraghavan Ramamurthy](https://dblp.org/pid/266/6909.html), [Christian Färber](https://dblp.org/pid/266/6790.html), [Kai-Uwe Sattler](https://dblp.org/pid/s/KaiUweSattler.html):
+**Accelerating re-pair compression using FPGAs.** 8:1-8:8
++ [Ingo Müller](https://dblp.org/pid/76/3160-2.html), [Renato Marroquín](https://dblp.org/pid/173/9193.html), [Dimitrios Koutsoukos](https://dblp.org/pid/195/1301.html), [Mike Wawrzoniak](https://dblp.org/pid/27/6413.html), [Sabir Akhadov](https://dblp.org/pid/186/0280.html), [Gustavo Alonso](https://dblp.org/pid/a/GustavoAlonso.html):
+**The collection Virtual Machine: an abstraction for multi-frontend multi-backend data analysis.** 7:1-7:10
 
 ## Query execution
 + NestGPU Nested Query Processing on GPU(ICDE 2021)
