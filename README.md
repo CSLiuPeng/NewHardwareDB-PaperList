@@ -9,7 +9,7 @@ This is a paper list for new hardware database systems especially for gpu.
 
 [GDBMS_PaperList][gdbms]
 
-[MPP和分布式数据库技术][mpp&distribute]
+[MPP_PaperList][mpp&distribute]
 
 [NewSql数据库技术][newsql]
 
@@ -25,9 +25,12 @@ This is a paper list for new hardware database systems especially for gpu.
 
 [新型存储器技术][newStorage]
 
+[DistributeDatabase][distribute]
+
+[distribute]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/dev/Paper/DistributeDatabase.md
 [fpga]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/dev/Paper/FPGA_PaperList.md
 [gdbms]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/dev/Paper/GDBMS_PaperList.md
-[mpp&distribute]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/dev/Paper/MPP%E5%92%8C%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF.md
+[mpp&distribute]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/dev/Paper/MPP_PaperList.md
 [newsql]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/dev/Paper/NewSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF.md
 [nvm]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/dev/Paper/NVM%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF.md
 [rdma]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/dev/Paper/RDMA%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF.md
