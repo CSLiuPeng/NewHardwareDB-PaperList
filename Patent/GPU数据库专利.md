@@ -10,9 +10,33 @@
 + OLAP star connection query optimizing method under CPU and GPU mixing framework
 + Vectorization query processing method for CPU and GPU platforms
 + SELECTIVE UTILIZATION OF GRAPHICS PROCESSING UNIT (GPU) BASED ACCELERATION IN DATABASE MANAGEMENT
++ OLAP system based on GPU
++ System and method for the parallel execution of database queries over CPUs and multi core processors
++ The star-like Connection inquiring optimization method of OLAP under GPU and CPU mixed architecture
 
 ### FPGA数据库
 
 + FPGA-based Join algorithm implementation method, system and device and medium
 + Hash join acceleration method and system based on BRAM in FPGA chip
 + Hash join operator acceleration method and system based on FPGA-DDR
+
+### 连接算子优化
+
++ Hash-join in parallel computation environments
++ Join operations in hybrid main memory systems
++ Optimizing skewed joins in big data
++ Probing a hash table using vectorized instructions
++ Splitting of a join operation to allow parallelization
+
+### 其它
+
++ Database system with methodology for generating bushy nested loop join trees
++ Executing database queries using multiple processors
++ Highly available main memory database system, operating method and uses thereof
++ Join operation partitioning
++ Joining tables in multiple heterogeneous distributed databases
++ Materializing expressions within in-memory virtual column units to accelerate analytic queries
++ Method and apparatus for processing query based on heterogeneous computing device
++ Methods and systems for hardware acceleration of streamed database operations and queries based on multiple hardware accelerators
++ Using shared dictionaries on join columns to improve performance of joins in relational databases
++ 一种基于RDMA的分布式内存数据库查询引擎系统
