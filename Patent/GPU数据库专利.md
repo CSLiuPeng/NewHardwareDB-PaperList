@@ -13,6 +13,8 @@
 + OLAP system based on GPU
 + System and method for the parallel execution of database queries over CPUs and multi core processors
 + The star-like Connection inquiring optimization method of OLAP under GPU and CPU mixed architecture
++ Selective utilization of graphics processing unit (GPU) based acceleration in database management
++ Self-adaptive database hybrid query method
 
 ### FPGA数据库
 
@@ -27,6 +29,7 @@
 + Optimizing skewed joins in big data
 + Probing a hash table using vectorized instructions
 + Splitting of a join operation to allow parallelization
++ Techniques for facilitating the joining of datasets
 
 ### 其它
 
@@ -40,3 +43,6 @@
 + Methods and systems for hardware acceleration of streamed database operations and queries based on multiple hardware accelerators
 + Using shared dictionaries on join columns to improve performance of joins in relational databases
 + 一种基于RDMA的分布式内存数据库查询引擎系统
++ System for processing multiple queries using gpu
++ Query support method and system based on stored data in ClickHouse database
++ A kind of single-table multi-column sequence storage method for a column database
