@@ -1,3 +1,4 @@
-### GPU数据库
+### Oracle
 
 + A kind of compressed data synchronous method and device based on oracle database
++ 
