@@ -42,6 +42,28 @@ This is a paper list for new hardware database systems especially for gpu.
 
 ### 专利分类目录
 
-[GPU数据库专利][gpudbpat]
+[数据库专利汇总][dbpat]
 
-[gpudbpat]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Patent/GPU%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%93%E5%88%A9.md
+[Actian Vector专利][actVec]
+
+[alibaba analyticdb专利][alibaba]
+
+[Altibase专利][alt]
+
+[ClickHouse专利][clickhouse]
+
+[EXASol专利][exasol]
+
+[Oracle专利][oracle]
+
+[SQL Server专利][sqlserver]
+
+
+[dbpat]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Patent/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%93%E5%88%A9%E6%B1%87%E6%80%BB%EF%BC%88%E6%8C%89%E6%8A%80%E6%9C%AF%E5%88%86%E7%B1%BB%EF%BC%89.md
+[actVec]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Patent/Actian%20Vector%E4%B8%93%E5%88%A9.md
+[alibaba]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Patent/alibaba%20analyticdb%E4%B8%93%E5%88%A9.md
+[alt]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Patent/Altibase%E4%B8%93%E5%88%A9.md
+[clickhouse]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Patent/ClickHouse%20%E5%8D%8E%E4%B8%BA%E4%B8%93%E5%88%A9.md
+[exasol]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Patent/EXASol%20%E4%B8%93%E5%88%A9.md
+[oracle]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Patent/Oracle%20%E4%B8%93%E5%88%A9.md
+[sqlserver]:https://github.com/CSLiuPeng/NewHardware_DBMS_PaperList/blob/master/Patent/SQL%20Server%E4%B8%93%E5%88%A9.md
