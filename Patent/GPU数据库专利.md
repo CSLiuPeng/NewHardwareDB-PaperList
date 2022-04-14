@@ -40,3 +40,4 @@
 + Methods and systems for hardware acceleration of streamed database operations and queries based on multiple hardware accelerators
 + Using shared dictionaries on join columns to improve performance of joins in relational databases
 + 一种基于RDMA的分布式内存数据库查询引擎系统
++ 
