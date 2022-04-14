@@ -7,3 +7,4 @@
 + Query optimization adaptive to system memory load for parallel database systems
 + Systems and methods for database management using append-only storage devices
 + The method and system of column storage database is adaptively built from the row data storage storehouse of current time based on query demand
++ Query support method and system based on stored data in ClickHouse database
